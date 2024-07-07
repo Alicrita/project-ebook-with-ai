@@ -11,7 +11,7 @@
 <p align="center">
   <img 
     src="assets/Mage1.png"
-    width="50%"  
+    width="25%"  
   />
 </p>
 

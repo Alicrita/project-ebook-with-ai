@@ -10,7 +10,7 @@
 
 <p align="center">
   <img 
-    src="assets/Mage2.jpeg"
+    src="assets/Mage1.png"
     width="100%"  
   />
 </p>

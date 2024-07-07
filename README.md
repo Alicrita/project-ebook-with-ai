@@ -36,13 +36,13 @@ ChatGPT：
 |   Action   | Prompt                                                                                                                                                                                                                                                                         |
 | :--------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   Title    | Create a title for an ebook about Python, the ebook is in the programming niche, the title should be epic and short, and have a fantasy theme, list 5 variations of titles                                                               |
-|  Content   | Write a text for an ebook, focusing on CSS, listing the main CSS selectors with code examples {RULES} Always explain in a simple way, keep the text concise, always provide code examples in real contexts, and always have a suggestive title for each topic |
+|  Content   | Write a text for an ebook, focusing on Python basics, with code examples {RULES} Always explain in a simple way, keep the text concise, always provide code examples in real contexts, and always have a suggestive title for each topic |
 
 Midjourney：
 
 |  Action  | Prompt                                                                                 |
 | :------: | -------------------------------------------------------------------------------------- |
-|  Title   | A Jedi in meditation pose, with a blue lightsaber floating, pixel art style --v 5.1    |
+|  Title   | A pixelated mage stands in a mystical forest, holding a glowing scroll. Around him, pixelated symbols of fire, water, earth, and air shimmer with lines of code   |
 
 ## ✨ Features
 
@@ -82,4 +82,4 @@ Use the prompts above in the suggested tools to generate the base material and u
 
 ---
 
-⌨️ with 💜 by [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ with 💜 by [Alison C. Rita](https://github.com/Alicrita) for Prof' [Felipe Aguiar](https://github.com/felipeAguiarCode) course.

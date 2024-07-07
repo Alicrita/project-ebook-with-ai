@@ -62,4 +62,4 @@ Use the prompts above in the suggested tools to generate the base material and u
 
 ---
 
-⌨️ with 💜 by [Alison C. Rita](https://github.com/Alicrita) for Prof' [Felipe Aguiar](https://github.com/felipeAguiarCode) course.
+by [Alison C. Rita](https://github.com/Alicrita) for Prof' [Felipe Aguiar](https://github.com/felipeAguiarCode) course.
